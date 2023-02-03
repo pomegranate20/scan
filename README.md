@@ -1,4 +1,4 @@
-Scan
+Scan（扫描全能Lite）
 ========
 ## 介绍
    软件基于opencv,sqlite3,scikit-image等第三方库，实现了目标功能。
